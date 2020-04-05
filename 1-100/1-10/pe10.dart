@@ -1,4 +1,4 @@
-import '../../../lib/prime.dart';
+import '../../lib/prime.dart';
 
 void main() {
   PrimeGenerator p = new PrimeGenerator();
