@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   BigInt factorial = BigInt.from(1);
   for(int i = 100; i > 0; i--) {
